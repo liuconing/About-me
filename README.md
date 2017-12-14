@@ -24,5 +24,6 @@
 + 能使用 Git 在 GitHub 上進行版本管理(如：commit、branch、push/pull、tag...)
 * * *
 ## 作品
-+ <a href="http://search.yahoo.com/" >個人介紹網站</a>
-- 15
++ <a href="http://search.yahoo.com/">個人介紹網站</a>
+    * CSS3的Animate置做箭頭動畫
+    * BootStrap4 來製作網頁版型
