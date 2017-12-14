@@ -33,7 +33,7 @@
 + Google maps API 串接、定位、AJAX 資料匯入。
 #### <a href="https://liuconing.github.io/Restaurant-RWD/">響應式美食購物網站</a> 、 <a href="https://liuconing.github.io/Restaurant-RWD/shopping.html">購物車頁面</a> 、 <a href="https://liuconing.github.io/Restaurant-RWD/loading.html">會員登入</a>
 + 不使用 Framework 純CSS、HTML語法製作網頁版型與響應式(RWD)
-+ 使用<meta og>結構化資料 SEO 。
++ 使用meta-og結構化資料 SEO 。
 * * *
 ## 自我介紹
 + 偶然機會接觸到JavaScript這門程式語言，慢慢了解到前端工程這項職位覺得這東西很有趣，目前正在努力成為工程師。
