@@ -31,7 +31,7 @@
 #### <a href="https://liuconing.github.io/Firstpage0622/exchange.html">高雄旅遊景點</a>
 + 使用AJAX來串接高雄政府資料開放平台。
 + Google maps API 串接、定位、AJAX 資料匯入。
-#### <a href="#">響應式美食購物網站</a> 、 <a href="#">購物車頁面</a> 、 <a href="#">會員登入</a>
+#### <a href="https://liuconing.github.io/Restaurant-RWD/">響應式美食購物網站</a> 、 <a href="https://liuconing.github.io/Restaurant-RWD/shopping.html">購物車頁面</a> 、 <a href="https://liuconing.github.io/Restaurant-RWD/loading.html">會員登入</a>
 + 不使用 Framework 純CSS、HTML語法製作網頁版型與響應式(RWD)
 + 使用<meta og>結構化資料 SEO 。
 * * *
