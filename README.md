@@ -21,6 +21,7 @@
 + 使用 AJAX 來與資了庫做基礎互動。
 + 使用 BootStrap 快速建置各種不同的網頁版型。
 ### Git / GitHub
++ 使用 GitHub Pages 創建一個靜態網頁
 + 能使用 Git 在 GitHub 上進行版本管理(如： commit 、 branch 、 push / pull 、 tag ...)。
 + 使用 Git 進行團隊製作專案。
 * * *
