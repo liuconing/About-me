@@ -11,17 +11,17 @@
 * * *
 ## 專業技能
 ### HTML / CSS
-+ 了解HTML語意並且製作網頁。
-+ 使用CSS語法製作常見網頁版型與RWD響應式設計。
-+ 瞭解 CSS3 的 Animate、transform 跟 transition。
++ 了解 HTML 語意並且製作網頁。
++ 使用 CSS 語法製作常見網頁版型與RWD響應式設計。
++ 瞭解 CSS3 的 Animate 、 transform 跟 transition。
 ### JavaScript / jQuery / Framework
 + 有一定的 JavaScript 語言基礎與使用者做互動。
 + 使用基本 jQuery 來製作動畫效果。
-+ 用 JavaScript 來與 JSON、第三方 API 串聯網頁的方式。
++ 用 JavaScript 來與 JSON 、第三方 API 串聯網頁的方式。
 + 使用 AJAX 來與資了庫做基礎互動。
 + 使用 BootStrap 快速建置各種不同的網頁版型。
 ### Git / GitHub
-+ 能使用 Git 在 GitHub 上進行版本管理(如：commit、branch、push / pull、tag...)。
++ 能使用 Git 在 GitHub 上進行版本管理(如： commit 、 branch 、 push / pull 、 tag ...)。
 + 使用 Git 進行團隊製作專案。
 * * *
 ## 作品
@@ -30,10 +30,13 @@
 + BootStrap4 製作網頁版型。
 #### <a href="https://liuconing.github.io/Firstpage0622/exchange.html">高雄旅遊景點</a>
 + 使用 AJAX 來串接高雄政府資料開放平台。
-+ Google maps API 串接、定位、AJAX 資料匯入。
++ Google maps API 串接、定位、 AJAX 資料匯入。
 #### <a href="https://liuconing.github.io/Restaurant-RWD/">響應式美食購物網站</a> 、 <a href="https://liuconing.github.io/Restaurant-RWD/shopping.html">購物車頁面</a> 、 <a href="https://liuconing.github.io/Restaurant-RWD/loading.html">會員登入</a>
 + 不使用 Framework 純 CSS、HTML 語法製作網頁版型與響應式( RWD )
 + 使用 meta-og 結構化資料 SEO 。
+#### <a href="https://liuconing.github.io/notebook/">線上筆記本</a>
++ 了解網頁 local storage 功能並使用在記事本上面。
++ 使用 JavaScript 操控 local storage 網頁功能。
 * * *
 ## 自我介紹
 + 偶然機會接觸到 JavaScript 這門程式語言，慢慢了解到前端工程這項職位覺得這東西很有趣，目前正在努力成為工程師。
