@@ -38,7 +38,7 @@
 #### <a href="https://liuconing.github.io/notebook/">線上筆記本</a>
 + 了解網頁 local storage 功能並使用在記事本上面。
 + 使用 JavaScript 操控 local storage 網頁功能。
-#### <a href="https://liuconing.github.io/">學習日記與筆記/a>
+#### <a href="https://liuconing.github.io/">學習日記與筆記</a>
 + 使用 HEXO 網誌框架架設一個網路日記
 * * *
 ## 自我介紹
