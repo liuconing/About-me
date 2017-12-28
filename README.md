@@ -5,10 +5,6 @@
 + E-mail：pp840405@gmail.com
 + personal website：https://liuconing.github.io/Firstpage0622/
 * * *
-## 工作經歷
-+ 燦坤擔任電腦硬體維修人員以及門市銷售員(兼職)
-+ 創盈科技企業社擔任幼稚園課後樂高(LEGO)才藝老師(兼職)
-* * *
 ## 專業技能
 ### HTML / CSS
 + 了解 HTML 語意並且製作網頁。
@@ -18,7 +14,7 @@
 + 有一定的 JavaScript 語言基礎與使用者做互動。
 + 使用基本 jQuery 來製作動畫效果。
 + 用 JavaScript 來與 JSON 、第三方 API 串聯網頁的方式。
-+ 使用 AJAX 來與資了庫做基礎互動。
++ 使用 AJAX 來與資料庫做基礎互動。
 + 使用 BootStrap 快速建置各種不同的網頁版型。
 ### Git / GitHub
 + 使用 GitHub Pages 創建一個靜態網頁
