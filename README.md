@@ -28,17 +28,21 @@
 #### <a href="https://liuconing.github.io/Firstpage0622/exchange.html">高雄旅遊景點</a>
 + 使用 AJAX 來串接高雄政府資料開放平台。
 + Google maps API 串接、定位、 AJAX 資料匯入。
-#### <a href="https://liuconing.github.io/Restaurant-RWD/">響應式美食購物網站</a> 、 <a href="https://liuconing.github.io/Restaurant-RWD/shopping.html">購物車頁面</a> 、 <a href="https://liuconing.github.io/Restaurant-RWD/loading.html">會員登入</a>
-+ 不使用 Framework 純 CSS、HTML 語法製作網頁版型與響應式( RWD )
+#### <a href="https://pure-beyond-68785.herokuapp.com/">響應式美食購物網站首頁</a> 、 <a href="https://pure-beyond-68785.herokuapp.com/shopping.html">購物車頁面</a> 、 <a href="https://pure-beyond-68785.herokuapp.com/loading.html">會員登入</a>
++ 不使用 Framework 的 CSS、HTML 語法製作網頁版型與響應式( RWD )
 + 使用 meta-og 結構化資料 SEO 。
++ 網站上傳在 HEROKU 上使用。
++ 使用 Node.js 撰寫後端並使用許多的 NPM 套件。
++ 首頁可以使用寄信功能來預約坐位。
++ 會員功能(待開發)。
 #### <a href="https://liuconing.github.io/notebook/">線上筆記本</a>
 + 了解網頁 local storage 功能並使用在記事本上面。
 + 使用 JavaScript 操控 local storage 網頁功能。
 #### <a href="https://liuconing.github.io/">程式學習日記</a>
-+ 使用 HEXO 網誌框架架設一個網路日記
-+ 分享與記錄學習程式語言的文章
++ 使用 HEXO 網誌框架架設一個網路日記。
++ 分享與記錄學習程式語言的文章。
 * * *
 ## 自我介紹
-+ 偶然機會接觸到 JavaScript 這門程式語言，慢慢了解到前端工程這項職位覺得這東西很有趣，目前正在努力成為工程師。
++ 偶然機會接觸到 JavaScript 這門程式語言，慢慢了解到前端語言是東西很有趣，目前正在尋找工作邊學習程式語言期望成為前端工程師( Frontend engineer )。
 + 在製作迷你專案非常享受專案完成那時刻的成就感。
 + 樂於進行團隊合作、討論、做中學習、解決問題完成專案。
