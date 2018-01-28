@@ -10,7 +10,7 @@
 + 了解 HTML 語意並且製作網頁。
 + 使用 CSS 語法製作常見網頁版型與RWD響應式設計。
 + 瞭解 CSS3 的 Animate 、 transform 跟 transition。
-### JavaScript / jQuery / Framework
+### JavaScript / jQuery / CSS Framework
 + 有一定的 JavaScript 語言基礎與使用者做互動。
 + 使用基本 jQuery 來製作動畫效果。
 + 用 JavaScript 來與 JSON 、第三方 API 串聯網頁的方式。
@@ -18,8 +18,11 @@
 + 使用 BootStrap 快速建置各種不同的網頁版型。
 ### Git / GitHub
 + 使用 GitHub Pages 創建一個靜態網頁
-+ 能使用 Git 在 GitHub 上進行版本管理(如： commit 、 branch 、 push / pull 、 tag ...)。
++ 能使用 Git 在 GitHub 上進行版本管理 ( 如： commit 、 branch 、 push / pull 、 tag ... )。
 + 使用 Git 進行團隊製作專案。
+### Node.js
++ 使用 Node.js 的 express web 輕量型應用框架。
++ 建立 Web 與佈署 Router 。
 * * *
 ## 作品
 #### <a href="https://liuconing.github.io/Firstpage0622/">個人介紹網站</a>
@@ -29,12 +32,12 @@
 + 使用 AJAX 來串接高雄政府資料開放平台。
 + Google maps API 串接、定位、 AJAX 資料匯入。
 #### <a href="https://pure-beyond-68785.herokuapp.com/">響應式美食購物網站首頁</a> 、 <a href="https://pure-beyond-68785.herokuapp.com/shopping.html">購物車頁面</a> 、 <a href="https://pure-beyond-68785.herokuapp.com/loading.html">會員登入</a>
-+ 不使用 Framework 的 CSS、HTML 語法製作網頁版型與響應式( RWD )
++ 不使用 Framework 的 CSS、HTML 語法製作網頁版型與響應式 ( RWD )
 + 使用 meta-og 結構化資料 SEO 。
 + 網站上傳在 HEROKU 上使用。
 + 使用 Node.js 撰寫後端並使用許多的 NPM 套件。
 + 首頁可以使用寄信功能來預約坐位。
-+ 會員功能(待開發)。
++ 會員功能 ( 待開發 )。
 #### <a href="https://liuconing.github.io/notebook/">線上筆記本</a>
 + 了解網頁 local storage 功能並使用在記事本上面。
 + 使用 JavaScript 操控 local storage 網頁功能。
