@@ -31,7 +31,7 @@
 #### <a href="https://liuconing.github.io/Firstpage0622/exchange.html">高雄旅遊景點</a>
 + 使用 AJAX 來串接高雄政府資料開放平台。
 + Google maps API 串接、定位、 AJAX 資料匯入。
-#### <a href="https://pure-beyond-68785.herokuapp.com/">響應式美食購物網站首頁</a> 、 <a href="https://pure-beyond-68785.herokuapp.com/shopping.html">購物車頁面</a> 、 <a href="https://pure-beyond-68785.herokuapp.com/loading.html">會員登入</a>
+#### <a href="https://pure-beyond-68785.herokuapp.com/">響應式美食購物網站首頁</a> 、 <a href="https://pure-beyond-68785.herokuapp.com/shopping">購物車頁面</a> 、 <a href="https://pure-beyond-68785.herokuapp.com/loading">會員登入</a>
 + 不使用 Framework 的 CSS、HTML 語法製作網頁版型與響應式 ( RWD )
 + 使用 meta-og 結構化資料 SEO 。
 + 網站上傳在 HEROKU 上使用。
