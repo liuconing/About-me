@@ -6,11 +6,12 @@
 + personal website：https://liuconing.github.io/Firstpage0622/
 * * *
 ## 專業技能
-### HTML / CSS
+### HTML / CSS / SASS
 + 了解 HTML 語意並且製作網頁。
 + 使用 CSS 語法製作常見網頁版型與RWD響應式設計。
 + 瞭解 CSS3 的 Animate 、 transform 跟 transition。
-### JavaScript / jQuery / CSS Framework
++ 使用 SASS 來更快速的撰寫 CSS 樣式。
+### JavaScript / jQuery / Framework
 + 有一定的 JavaScript 語言基礎與使用者做互動。
 + 使用基本 jQuery 來製作動畫效果。
 + 用 JavaScript 來與 JSON 、第三方 API 串聯網頁的方式。
