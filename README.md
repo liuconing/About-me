@@ -38,7 +38,6 @@
 + 網站上傳在 HEROKU 上使用。
 + 使用 Node.js 撰寫後端並使用許多的 NPM 套件。
 + 首頁可以使用寄信功能來預約坐位。
-+ 會員功能 ( 待開發 )。
 #### <a href="https://liuconing.github.io/notebook/">線上筆記本</a>
 + 了解網頁 local storage 功能並使用在記事本上面。
 + 使用 JavaScript 操控 local storage 網頁功能。
