@@ -27,7 +27,7 @@
 * * *
 ## 作品
 #### <a href="https://liuconing.github.io/Firstpage0622/">個人介紹網站</a>
-+ CSS3 的 Animate 製作箭頭動畫。
++ jQuery 來製作滾動動畫效果
 + BootStrap4 製作網頁版型。
 #### <a href="https://liuconing.github.io/Firstpage0622/exchange.html">高雄旅遊景點</a>
 + 使用 AJAX 來串接高雄政府資料開放平台。
