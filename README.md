@@ -35,7 +35,6 @@
 #### <a href="https://pure-beyond-68785.herokuapp.com/">響應式美食購物網站首頁</a> 、 <a href="https://pure-beyond-68785.herokuapp.com/shopping">購物車頁面</a> 、 <a href="https://pure-beyond-68785.herokuapp.com/loading">會員登入</a>
 + 不使用 Framework 的 CSS、HTML 語法製作網頁版型與響應式 ( RWD )
 + 使用 meta-og 結構化資料 SEO 。
-+ 網站上傳在 HEROKU 上使用。
 + 使用 Node.js 撰寫後端並使用許多的 NPM 套件。
 + 首頁可以使用寄信功能來預約坐位。
 #### <a href="https://liuconing.github.io/notebook/">線上筆記本</a>
