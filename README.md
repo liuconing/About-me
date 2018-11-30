@@ -5,6 +5,11 @@
 + E-mail：pp840405@gmail.com
 + personal website：https://liuconing.github.io/Firstpage0622/
 * * *
+## 工作經歷
+### <a href="https://www.sdabi.com/">思偉達創新科技股份有限公司</a> - 前端工程師
++ 使用 Vue.js 完成去中心化交易所的前端網頁製作與功能
++ 使用 webpack 完成 vue.js 、 html 、 Scss 的各項套件編譯
+* * *
 ## 專業技能
 ### HTML / CSS / SASS
 + 了解 HTML 語意並且製作網頁。
