@@ -10,7 +10,12 @@
 + 使用 Vue.js 完成去中心化交易所的前端網頁製作與功能
 + 使用 webpack 完成 vue.js 、 html 、 Scss 的各項套件編譯
 + 使用 Vue.js 製作多國語系、SPA 網站。
-+ 使用 vue.js 製作小瑪莉遊戲。
++ 使用 vue.js 製作小瑪莉(Roulette Slots)遊戲。
++ 使用 nuxt.js 製作SSR官方網站且有SEO效果，可以供搜尋引擎商爬蟲爬。
+### 樹人科技有限公司 - 前端工程師
++ 使用 Vue.js 完成H5遊戲API並製作手機版本的包網網站
++ 使用 webpack 完成 vue.js 、 html 、 Scss 的各項套件編譯
++ 使用 vue-element-admin 後台管理網站，針對使用者資料進行操作。
 * * *
 ## 專業技能
 ### HTML / CSS / SASS
@@ -24,7 +29,8 @@
 + 用 JavaScript 來與 JSON 、第三方 API 串聯網頁的方式。
 + 使用 AJAX 來與資料庫做基礎互動。
 + 使用 BootStrap 快速建置各種不同的網頁版型。
-### Git / GitHub
++ 使用 vue-element-admin 快速建置後台管理網站。
+### Git / GitHub / GitLab
 + 使用 GitHub Pages 創建一個靜態網頁
 + 能使用 Git 在 GitHub 上進行版本管理 ( 如： commit 、 branch 、 push / pull 、 tag ... )。
 + 使用 Git 進行團隊製作專案。
@@ -46,19 +52,17 @@
 + 使用 meta-og 結構化資料 SEO 。
 + 使用 Node.js 撰寫後端並使用許多的 NPM 套件。
 + 首頁可以使用寄信功能來預約坐位。
-#### <a href="https://liuconing.github.io/ellis_works/#/gallerys/airquality">空氣品質指標 (AQI) </a>
+#### <a href="http://page.ellisliu.website/#/gallerys/airquality">空氣品質指標 (AQI) </a>
 + 使用 Vue 框架做撰寫。
 + 跨來源資源共用（CORS）取得 API 資料。
 + fetch 取的 API 並渲染出來。
 + 使用 vue-loading 來做等待載入資料畫面。
-#### <a href="https://liuconing.github.io/ellis_works/#/gallerys/fortune">線上求籤</a>
++ 用 Golang Gin 來解決CORS問題。
+#### <a href="http://page.ellisliu.website/#/gallerys/fortune">線上求籤</a>
 + 使用 Vue 框架做撰寫。
 + 不使用 Vue router 來做頁面跳轉。
 + 使用 Vue transition 作為動畫。
 + 使用 Vue 判斷是否渲染該畫面。
-#### <a href="https://liuconing.github.io/notebook/">線上筆記本</a>
-+ 了解網頁 local storage 功能並使用在記事本上面。
-+ 使用 JavaScript 操控 local storage 網頁功能。
 #### <a href="https://liuconing.github.io/">程式學習日記</a>
 + 使用 HEXO 網誌框架架設一個網路日記。
 + 分享與記錄學習程式語言的文章。
